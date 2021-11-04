@@ -112,7 +112,7 @@ export default {
     projects () {
       return [{
         title: 'COVIDNOW - Ministry of Health Malaysia',
-        description: 'The official Malaysia government website for data and insights on COVID-19. Over a million users visited the page on the launch month. Built using Nuxt.js and TailwindCSS.',
+        description: 'The official Malaysia government website for data and insights on COVID-19. Over four million users visited the page on the launch month. Built using Nuxt.js and TailwindCSS.',
         image: 'covidnow',
         imageDark: 'covidnow-dark',
         url: 'https://covidnow.moh.gov.my'
