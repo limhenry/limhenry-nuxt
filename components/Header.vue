@@ -12,6 +12,14 @@
         About
       </NuxtLink>
       <a
+        href="https://www.linkedin.com/in/henrylim96/"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="hidden md:block transition border-b-2 border-transparent hover:border-gray-500 dark:hover:text-gray-200 dark:hover:border-gray-200"
+      >
+        LinkedIn
+      </a>
+      <a
         href="https://twitter.com/henrylim96"
         target="_blank"
         rel="noopener noreferrer"
@@ -20,7 +28,7 @@
         Twitter
       </a>
       <a
-        href="https://patreon.com/remoteforslides"
+        href="https://ko-fi.com/remoteforslides"
         target="_blank"
         rel="noopener noreferrer"
         class="hidden md:block transition border-b-2 border-transparent hover:border-gray-500 dark:hover:text-gray-200 dark:hover:border-gray-200"
@@ -90,6 +98,15 @@
           About
         </NuxtLink>
         <a
+          href="https://www.linkedin.com/in/henrylim96/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="hover:bg-blue-50 dark:hover:bg-gray-700 rounded-l-full px-5 py-3"
+          :tabindex="`${showDrawer ? '0' : '-1'}`"
+        >
+          LinkedIn
+        </a>
+        <a
           href="https://twitter.com/henrylim96"
           target="_blank"
           rel="noopener noreferrer"
@@ -99,7 +116,7 @@
           Twitter
         </a>
         <a
-          href="https://patreon.com/remoteforslides"
+          href="https://ko-fi.com/remoteforslides"
           target="_blank"
           rel="noopener noreferrer"
           class="hover:bg-blue-50 dark:hover:bg-gray-700 rounded-l-full px-5 py-3"
