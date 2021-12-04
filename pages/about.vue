@@ -21,7 +21,7 @@
       <li>🕹 &nbsp;I <a class="link" href="https://www.digitalnewsasia.com/mobility/student-nets-elusive-firebass-ticket-google%E2%80%99s-io-2017" target="_blank" rel="noopener noreferrer">won a free ticket to Google I/O 2017 from a Firebase's Alternate reality game</a> in 2016.</li>
       <li>🏆 &nbsp;I <a class="link" href="https://limhenry.medium.com/how-we-crashed-the-firebase-console-in-front-of-firebase-engineers-a04afac72095" target="_blank" rel="noopener noreferrer">won a Google Wifi and a few hundred dollars of Google Cloud Credit</a> from the Firebase AppFest Hackathon Malaysia in 2017.</li>
       <li>🤪 &nbsp;I love to build useless stuff like <a class="link" href="https://howmanydayssincehenrygothishaircut.limhenry.xyz/" target="_blank" rel="noopener noreferrer">How Many Days Since Henry Got His Haircut</a>, <a class="link" href="https://nothing.limhenry.xyz/" target="_blank" rel="noopener noreferrer">Nothing PWA</a>, and more.</li>
-      <li>💈 &nbsp;I haven't had a haircut for more than 300 days (since December 2020).</li>
+      <li>💈 &nbsp;I haven't had a haircut for more than <del>300 days</del> 1 year (since December 2020).</li>
       <li>🍎 &nbsp;I love Google, but I use iPhone and MacBook <i>(Don't ask me why)</i>.</li>
       <li>🚀 &nbsp;I love aviation and rocket science. I used to play Microsoft Flight Simulator X on my old, slow laptop in the past. Now <a class="link" href="https://twitter.com/henrylim96/status/1443965690646458371">I am playing Microsoft Flight Simulator 2020 on my Xbox Series S</a>.</li>
       <li>🛩 &nbsp;I have a very long list of every flight I've ever been on, since birth. And I flew with AirAsia more than 50 times.</li>
