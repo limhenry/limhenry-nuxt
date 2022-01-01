@@ -139,7 +139,7 @@
         </div>
         <div class="info">
           <div class="copyright">
-            © Copyright 2021 <a class="link" href="/" target="_blank" rel="noopener noreferrer">Henry Lim</a>
+            © Copyright 2022 <a class="link" href="/" target="_blank" rel="noopener noreferrer">Henry Lim</a>
           </div>
         </div>
       </div>

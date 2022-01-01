@@ -67,7 +67,7 @@
       </a>
     </div>
     <div class="text-sm text-center">
-      &copy; 2021 Henry Lim. All rights reserved.
+      &copy; 2022 Henry Lim. All rights reserved.
     </div>
   </footer>
 </template>
