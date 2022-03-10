@@ -9,7 +9,7 @@
       <li>👋🏻 &nbsp;I am Henry Lim. My Chinese name is 林亨力, and it is pronounced as <i>lín hēng lì</i>.</li>
       <li>🍼 &nbsp;I was born and raised in Johor Bahru, a city located at the southern tip of the Malay Peninsula.</li>
       <li>🧑🏻‍💻 &nbsp;I write code for a living. Mostly JavaScript and CSS, plus a little bit of HTML.</li>
-      <li>🏢 &nbsp;I am currently working for a software house as a front-end web developer in Bangkok, Thailand.</li>
+      <li><del>🏢 &nbsp;I am currently working for a software house as a front-end web developer in Bangkok, Thailand.</del></li>
       <li>🥑 &nbsp;I am a <a class="hover:underline text-blue-800 dark:text-blue-200" href="https://developers.google.com/community/experts/directory/profile/profile-henry-lim" target="_blank" rel="noopener noreferrer">Google Developer Expert (GDE) in Web Technologies</a> since 2018. I was one of the youngest GDE in the region.</li>
       <li>🧑🏻‍🏫 &nbsp;I taught college students coding fundamentals and web development at The One Academy back in 2018.</li>
       <li>💻 &nbsp;This website is built using Nuxt.js and TailwindCSS.</li>
