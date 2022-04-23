@@ -9,9 +9,10 @@
       <li>👋🏻 &nbsp;I am Henry Lim. My Chinese name is 林亨力, and it is pronounced as <i>lín hēng lì</i>.</li>
       <li>🍼 &nbsp;I was born and raised in Johor Bahru, a city located at the southern tip of the Malay Peninsula.</li>
       <li>🧑🏻‍💻 &nbsp;I write code for a living. Mostly JavaScript and CSS, plus a little bit of HTML.</li>
-      <li><del>🏢 &nbsp;I am currently working for a software house as a front-end web developer in Bangkok, Thailand.</del></li>
+      <li>🇩🇪 &nbsp;I am currently working for a tech company as a frontend engineer in <a class="link" href="https://twitter.com/henrylim96/status/1511707662630670342" target="_blank" rel="noopener noreferrer">Berlin, Germany since early 2022</a>.</li>
+      <li>🇹🇭 &nbsp;I was working for a software house as a front-end web developer in Bangkok, Thailand from 2018 to 2021.</li>
+      <li>🇲🇾 &nbsp;I taught college students coding fundamentals and web development at The One Academy in Malaysia back in 2018.</li>
       <li>🥑 &nbsp;I am a <a class="hover:underline text-blue-800 dark:text-blue-200" href="https://developers.google.com/community/experts/directory/profile/profile-henry-lim" target="_blank" rel="noopener noreferrer">Google Developer Expert (GDE) in Web Technologies</a> since 2018. I was one of the youngest GDE in the region.</li>
-      <li>🧑🏻‍🏫 &nbsp;I taught college students coding fundamentals and web development at The One Academy back in 2018.</li>
       <li>💻 &nbsp;This website is built using Nuxt.js and TailwindCSS.</li>
       <li>🛠 &nbsp;I don't like jQuery and Bootstrap, but for some reason, I like TailwindCSS <a class="link" href="https://tailwindcss.com/docs/just-in-time-mode" target="_blank" rel="noopener noreferrer">(JIT is awesome!)</a>.</li>
       <li>😷 &nbsp;I <a class="link" href="https://covidnow.moh.gov.my/" target="_blank" rel="noopener noreferrer">developed a COVID-19 dashboard</a> for the people of Malaysia as a pro bono project. Over four million users visited the page on the launch month. It was featured on major news outlets in Malaysia.</li>
