@@ -4,7 +4,7 @@
       <h1 class="text-2xl md:text-4xl font-extralight leading-9 md:leading-[3.25rem] tracking-wide md:tracking-wider max-w-5xl">
         Hi there, my name is
         <span class="font-medium text-blue-800 dark:text-blue-300">Henry Lim</span>,
-        and I am a Malaysian web developer working on
+        and I am a frontend engineer working on
         <span class="font-medium text-blue-800 dark:text-blue-300">COVIDNOW</span>,
         <span class="font-medium text-blue-800 dark:text-blue-300">Malaysia Vaccine Tracker</span>,
         <span class="font-medium text-blue-800 dark:text-blue-300">Remote for Slides</span>,
