@@ -5,7 +5,6 @@
         Hi there, my name is
         <span class="font-medium text-blue-800 dark:text-blue-300">Henry Lim</span>,
         and I am a frontend engineer working on
-        <span class="font-medium text-blue-800 dark:text-blue-300">COVIDNOW</span>,
         <span class="font-medium text-blue-800 dark:text-blue-300">Malaysia Vaccine Tracker</span>,
         <span class="font-medium text-blue-800 dark:text-blue-300">Remote for Slides</span>,
         and more.
