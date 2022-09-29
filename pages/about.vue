@@ -34,7 +34,7 @@
       <li>🇲🇾 &nbsp;Malaysian food is better than Singaporean food.</li>
     </ul>
     <div class="grid items-center py-2 md:py-8">
-      <h2 class="text-4xl md:text-5xl font-extralight leading-9 md:leading-[3.25rem] tracking-wide md:tracking-wider max-w-5xl">
+      <h2 id="news" class="text-4xl md:text-5xl font-extralight leading-9 md:leading-[3.25rem] tracking-wide md:tracking-wider max-w-5xl">
         News Articles
       </h2>
     </div>
