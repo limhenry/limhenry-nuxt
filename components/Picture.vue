@@ -16,9 +16,11 @@
     <img
       :src="`${path}.${type}`"
       :alt="alt"
-      loading="lazy"
-      class="w-full dark:saturate-[90%]"
+      :width="width"
+      :height="height"
       :class="styleClass"
+      :loading="loading"
+      class="w-full dark:saturate-[90%]"
     >
   </picture>
 </template>
@@ -41,6 +43,18 @@ export default {
     styleClass: {
       type: String,
       default: ''
+    },
+    width: {
+      type: String,
+      default: ''
+    },
+    height: {
+      type: String,
+      default: ''
+    },
+    loading: {
+      type: String,
+      default: 'lazy'
     }
   }
 }

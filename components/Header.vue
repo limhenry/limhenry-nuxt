@@ -1,8 +1,6 @@
 <template>
-  <header class="grid grid-cols-[auto,1fr,auto] py-4 items-center text-gray-700 dark:text-gray-300">
-    <router-link to="/">
-      <IconLogo class="transition-colors hover:text-blue-700 dark:hover:text-blue-300" />
-    </router-link>
+  <header class="grid grid-cols-[auto,1fr,auto] py-4 md:py-8 items-center text-gray-700 dark:text-gray-300">
+    <Twitter />
     <div />
     <div class="grid grid-flow-col gap-3 md:gap-8 items-center text-lg font-light">
       <NuxtLink
@@ -28,7 +26,7 @@
         Twitter
       </a>
       <a
-        href="https://ko-fi.com/remoteforslides"
+        href="https://www.patreon.com/remoteforslides/"
         target="_blank"
         rel="noopener noreferrer"
         class="hidden md:block transition border-b-2 border-transparent hover:border-gray-500 dark:hover:text-gray-200 dark:hover:border-gray-200"

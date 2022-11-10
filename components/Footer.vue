@@ -50,7 +50,7 @@
         <IconGde class="w-[22px] h-[22px]" />
       </a>
       <a
-        href="https://ko-fi.com/remoteforslides"
+        href="https://www.patreon.com/remoteforslides/"
         target="_blank"
         rel="noopener noreferrer"
         class="transition hover:text-gray-600 dark:hover:text-gray-300"
