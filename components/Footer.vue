@@ -1,6 +1,6 @@
 <template>
   <footer class="grid gap-6 px-3 pt-24 pb-12 text-gray-500 dark:text-gray-400">
-    <div class="grid grid-cols-4 sm:grid-cols-8 gap-y-4 gap-6 md:gap-8 justify-center justify-items-center mx-auto">
+    <div class="grid grid-cols-4 sm:grid-cols-7 gap-y-4 gap-6 md:gap-8 justify-center justify-items-center mx-auto">
       <a
         href="https://mastodon.social/@henrylim96"
         target="_blank"
@@ -40,14 +40,6 @@
         class="transition hover:text-gray-600 dark:hover:text-gray-300"
       >
         <IconDevto class="w-[22px] h-[22px]" />
-      </a>
-      <a
-        href="https://limhenry.medium.com/"
-        target="_blank"
-        rel="noopener noreferrer"
-        class="transition hover:text-gray-600 dark:hover:text-gray-300"
-      >
-        <IconMedium class="w-[22px] h-[22px]" />
       </a>
       <a
         href="https://developers.google.com/community/experts/directory/profile/profile-henry-lim"
