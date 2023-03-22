@@ -132,7 +132,7 @@ export default {
         description: 'Launcher Icon Previewer allows you to preview your launcher icon design on your mobile devices. Built using Firebase.',
         image: 'launcher',
         imageDark: 'launcher-dark',
-        url: 'https://limhenry.medium.com/meet-launcher-icon-previewer-preview-your-app-icon-design-on-your-device-321112359bfc'
+        url: 'https://dev.to/henrylim96/meet-launcher-icon-previewer---preview-your-app-icon-design-on-yourdevice-4m97'
       }]
     },
     blogs () {
@@ -155,7 +155,7 @@ export default {
         title: '30 Events & 10 Websites later — My journey with Google Developer Group Kuala Lumpur',
         description: 'A story of my journey with Google Developer Group Kuala Lumpur.',
         image: 'gdg',
-        url: 'https://limhenry.medium.com/my-journey-with-gdg-kuala-lumpur-81e5b82ed7ed'
+        url: 'https://dev.to/henrylim96/30-events--10-websites-later--my-journey-with-gdg-kuala-lumpur-470i'
       }]
     },
     news () {

@@ -9,7 +9,7 @@
       <li>👋🏻 &nbsp;I am Henry Lim. My Chinese name is 林亨力, and it is pronounced as <i>lín hēng lì</i>.</li>
       <li>🍼 &nbsp;I was born and raised in Johor Bahru, a city located at the southern tip of the Malay Peninsula.</li>
       <li>🧑🏻‍💻 &nbsp;I write code for a living. Mostly JavaScript and CSS, plus a little bit of HTML.</li>
-      <li>🇩🇪 &nbsp;I am currently working for a tech company as a frontend engineer in <a class="link" href="https://twitter.com/henrylim96/status/1511707662630670342" target="_blank" rel="noopener noreferrer">Berlin, Germany since early 2022</a>.</li>
+      <li>🇩🇪 &nbsp;I am currently working as a frontend engineer for a <a class="link" href="https://twitter.com/henrylim96/status/1511707662630670342" target="_blank" rel="noopener noreferrer">Hamburg-based Germany company</a>.</li>
       <li>🇹🇭 &nbsp;I was working for a software house as a front-end web developer in Bangkok, Thailand from 2018 to 2021.</li>
       <li>🇲🇾 &nbsp;I taught college students coding fundamentals and web development at The One Academy in Malaysia back in 2018.</li>
       <li>🥑 &nbsp;I am a <a class="hover:underline text-blue-800 dark:text-blue-200" href="https://developers.google.com/community/experts/directory/profile/profile-henry-lim" target="_blank" rel="noopener noreferrer">Google Developer Expert (GDE) in Web Technologies</a> since 2018. I was one of the youngest GDE in the region.</li>
@@ -20,10 +20,9 @@
       <li>🎛️ &nbsp;I <a class="link" href="/slides" target="_blank" rel="noopener noreferrer">developed a remote control web app for Google Slides called Remote for Slides</a>. Used by hundreds of thousands of people worldwide. It was featured on <a class="link" href="https://thenextweb.com/news/turn-your-phone-into-a-google-slides-remote-control-with-this-chrome-extension" target="_blank" rel="noopener noreferrer">The Next Web</a>.</li>
       <li>🎖 &nbsp;I won a Moto 360 smartwatch and a Raspberry Pi from Firebase Static Showdown Hackathon in 2016.</li>
       <li>🕹 &nbsp;I <a class="link" href="https://www.digitalnewsasia.com/mobility/student-nets-elusive-firebass-ticket-google%E2%80%99s-io-2017" target="_blank" rel="noopener noreferrer">won a free ticket to Google I/O 2017 from a Firebase's Alternate reality game</a> in 2016.</li>
-      <li>🏆 &nbsp;I <a class="link" href="https://limhenry.medium.com/how-we-crashed-the-firebase-console-in-front-of-firebase-engineers-a04afac72095" target="_blank" rel="noopener noreferrer">won a Google Wifi and a few hundred dollars of Google Cloud Credit</a> from the Firebase AppFest Hackathon Malaysia in 2017.</li>
+      <li>🏆 &nbsp;I <a class="link" href="https://web.archive.org/web/20221208212150/https://limhenry.medium.com/how-we-crashed-the-firebase-console-in-front-of-firebase-engineers-a04afac72095" target="_blank" rel="noopener noreferrer">won a Google Wifi and a few hundred dollars of Google Cloud Credit</a> from the Firebase AppFest Hackathon Malaysia in 2017.</li>
       <li>🤪 &nbsp;I love to build useless stuff like <a class="link" href="https://howmanydayssincehenrygothishaircut.limhenry.xyz/" target="_blank" rel="noopener noreferrer">How Many Days Since Henry Got His Haircut</a>, <a class="link" href="https://nothing.limhenry.xyz/" target="_blank" rel="noopener noreferrer">Nothing PWA</a>, and more.</li>
-      <li>💈 &nbsp;I haven't had a haircut for more than <del>300 days</del> 1 year (since December 2020).</li>
-      <li>🍎 &nbsp;I love Google, but I use iPhone and MacBook <i>(Don't ask me why)</i>.</li>
+      <li>🍎 &nbsp;I love Google, but I use iPhone, Apple Watch, and MacBook <i>(Don't ask me why)</i>.</li>
       <li>🚀 &nbsp;I love aviation and rocket science. I used to play Microsoft Flight Simulator X on my old, slow laptop in the past. Now <a class="link" href="https://twitter.com/henrylim96/status/1443965690646458371">I am playing Microsoft Flight Simulator 2020 on my Xbox Series S</a>.</li>
       <li>🛩 &nbsp;I have a very long list of every flight I've ever been on, since birth. And I flew with AirAsia more than 50 times.</li>
       <li>🧳 &nbsp;I once flew to San Francisco, and Hong Kong Airlines left my luggage on another side of the world.</li>
