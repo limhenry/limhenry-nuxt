@@ -22,7 +22,7 @@
           <a class="button" href="https://play.google.com/store/apps/details?id=xyz.limhenry.slides.lite" target="_blank" rel="noopener noreferrer">
             Download Android App
           </a>
-          <a class="button" href="https://medium.com/@limhenry/meet-remote-for-google-slides-a-new-way-to-control-your-presentation-slides-c54a6b688674" target="_blank" rel="noopener noreferrer">
+          <a class="button" href="https://dev.to/henrylim96/meet-remote-for-slides-a-new-way-to-control-your-presentation-slides-1o7n" target="_blank" rel="noopener noreferrer">
             Learn More
           </a>
         </div>
@@ -135,11 +135,11 @@
           <a class="link" href="https://policies.limhenry.xyz/slides" target="_blank" rel="noopener noreferrer">Privacy Policy</a>
           <a class="link" href="https://www.paypal.me/henrylim96/5usd" target="_blank" rel="noopener noreferrer">Donate</a>
           <a class="link" href="https://twitter.com/remoteforslides" target="_blank" rel="noopener noreferrer">Twitter</a>
-          <a class="link" href="https://medium.com/@limhenry/meet-remote-for-google-slides-a-new-way-to-control-your-presentation-slides-c54a6b688674" target="_blank" rel="noopener noreferrer">Blog</a>
+          <a class="link" href="https://dev.to/henrylim96/meet-remote-for-slides-a-new-way-to-control-your-presentation-slides-1o7n" target="_blank" rel="noopener noreferrer">Blog</a>
         </div>
         <div class="info">
           <div class="copyright">
-            © Copyright 2022 <a class="link" href="/" target="_blank" rel="noopener noreferrer">Henry Lim</a>
+            © Copyright 2023 <a class="link" href="/" target="_blank" rel="noopener noreferrer">Henry Lim</a>
           </div>
         </div>
       </div>
