@@ -38,7 +38,7 @@
             </h1>
           </router-link>
           <button @click="showDialog = !showDialog">
-            <IconVerified class="transition-colors" />
+            <IconVerified class="transition-colors hdr" />
           </button>
         </div>
         <router-link to="/" class="grid grid-flow-col items-center justify-start gap-0.5 font-medium text-gray-600 dark:text-gray-400">
@@ -57,3 +57,10 @@ export default {
   })
 }
 </script>
+
+<style scoped>
+.hdr {
+  @apply dark:brightness-[2];
+  backdrop-filter: brightness();
+}
+</style>
