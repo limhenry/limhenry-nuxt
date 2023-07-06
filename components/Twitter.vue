@@ -25,7 +25,7 @@
           type="jpg"
           width="48"
           height="48"
-          style-class="rounded-full w-[48px]"
+          style-class="rounded-full w-[48px] max-w-[48px]"
           alt="Profile picture of Henry Lim"
           loading="eager"
         />

@@ -206,7 +206,7 @@ export default {
         image: 'tatler',
         url: 'https://www.tatlerasia.com/style/wellness/covid-19-covidnow-website-covid-data-malaysia-khairy-jamaluddin-henry-lim-calum-lim-sheng-han-lim-ro',
         containerClass: 'md:col-start-4',
-        class: 'w-auto h-[48px] lg:h-[68px]'
+        class: 'w-auto h-[48px] lg:h-[68px] object-contain'
       }, {
         name: 'The Malaysian Insight',
         image: 'tmi',
