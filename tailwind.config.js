@@ -1,24 +1,16 @@
-const colors = require('tailwindcss/colors')
-
-module.exports = {
-  mode: 'jit',
-  purge: [],
+/** @type {import('tailwindcss').Config} */
+export default {
   darkMode: 'class',
+  content: [
+    './components/**/*.{js,vue,ts}',
+    './layouts/**/*.vue',
+    './pages/**/*.vue',
+    './plugins/**/*.{js,ts}',
+    './nuxt.config.{js,ts}',
+    './app.vue'
+  ],
   theme: {
-    extend: {
-      colors: {
-        sky: colors.sky
-      },
-      aspectRatio: {
-        1000: '1000',
-        659: '659'
-      }
-    }
-  },
-  variants: {
     extend: {}
   },
-  plugins: [
-    require('@tailwindcss/aspect-ratio')
-  ]
+  plugins: []
 }

@@ -25,37 +25,22 @@
   </picture>
 </template>
 
-<script>
-export default {
-  props: {
-    path: {
-      type: String,
-      required: true
-    },
-    type: {
-      type: String,
-      default: 'jpeg'
-    },
-    alt: {
-      type: String,
-      required: true
-    },
-    styleClass: {
-      type: String,
-      default: ''
-    },
-    width: {
-      type: String,
-      default: ''
-    },
-    height: {
-      type: String,
-      default: ''
-    },
-    loading: {
-      type: String,
-      default: 'lazy'
-    }
-  }
+<script setup lang="ts">
+interface Props {
+  path: string
+  type?: string
+  alt: string
+  styleClass?: string
+  width?: string
+  height?: string
+  loading?: 'lazy' | 'eager'
 }
+
+withDefaults(defineProps<Props>(), {
+  type: 'jpeg',
+  styleClass: '',
+  width: '',
+  height: '',
+  loading: 'lazy'
+})
 </script>

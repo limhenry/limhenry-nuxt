@@ -18,20 +18,12 @@
         LinkedIn
       </a>
       <a
-        href="https://twitter.com/henrylim96"
+        href="https://bsky.app/profile/henrylim96.bsky.social"
         target="_blank"
         rel="noopener noreferrer"
         class="hidden md:block transition border-b-2 border-transparent hover:border-gray-500 dark:hover:text-gray-200 dark:hover:border-gray-200"
       >
-        Twitter
-      </a>
-      <a
-        href="https://www.patreon.com/remoteforslides/"
-        target="_blank"
-        rel="noopener noreferrer"
-        class="hidden md:block transition border-b-2 border-transparent hover:border-gray-500 dark:hover:text-gray-200 dark:hover:border-gray-200"
-      >
-        Buy me a coffee
+        Bluesky
       </a>
       <button
         class="-ml-2 transition hover:bg-gray-200 dark:hover:bg-gray-700 p-2 rounded-full opacity-90"
@@ -105,59 +97,47 @@
           LinkedIn
         </a>
         <a
-          href="https://twitter.com/henrylim96"
+          href="https://bsky.app/profile/henrylim96.bsky.social"
           target="_blank"
           rel="noopener noreferrer"
           class="hover:bg-blue-50 dark:hover:bg-gray-700 rounded-l-full px-5 py-3"
           :tabindex="`${showDrawer ? '0' : '-1'}`"
         >
-          Twitter
-        </a>
-        <a
-          href="https://ko-fi.com/remoteforslides"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="hover:bg-blue-50 dark:hover:bg-gray-700 rounded-l-full px-5 py-3"
-          :tabindex="`${showDrawer ? '0' : '-1'}`"
-        >
-          Buy me a coffee
+          Bluesky
         </a>
       </div>
     </div>
   </header>
 </template>
 
-<script>
-export default {
-  data: () => ({
-    showDrawer: false
-  }),
-  watch: {
-    '$route.name' () {
-      this.showDrawer = false
-    }
-  },
-  methods: {
-    toggleTheme () {
-      const theme = document.querySelector('meta[name=theme-color]')
-      if (document.documentElement.classList.contains('dark')) {
-        localStorage.theme = 'light'
-        document.documentElement.classList.remove('dark')
-        theme.setAttribute('content', '#fff')
-      } else {
-        localStorage.theme = 'dark'
-        document.documentElement.classList.add('dark')
-        theme.setAttribute('content', '#111827')
-      }
-    }
+<script setup lang="ts">
+const showDrawer = ref(false)
+const route = useRoute()
+
+watch(() => route.name, () => {
+  showDrawer.value = false
+})
+
+const toggleTheme = () => {
+  const theme = document.querySelector('meta[name=theme-color]')
+  if (document.documentElement.classList.contains('dark')) {
+    localStorage.theme = 'light'
+    document.documentElement.classList.remove('dark')
+    theme?.setAttribute('content', '#fff')
+  } else {
+    localStorage.theme = 'dark'
+    document.documentElement.classList.add('dark')
+    theme?.setAttribute('content', '#111827')
   }
 }
 </script>
 
 <style scoped>
+  a.nav-link.router-link-exact-active,
   a.nav-link.nuxt-link-exact-active {
     @apply border-gray-700 text-gray-900 dark:text-gray-200 dark:border-gray-200;
   }
+  a.drawer-link.router-link-exact-active,
   a.drawer-link.nuxt-link-exact-active {
     @apply bg-blue-100 text-gray-900 font-medium;
   }

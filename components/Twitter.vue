@@ -50,12 +50,8 @@
   </div>
 </template>
 
-<script>
-export default {
-  data: () => ({
-    showDialog: false
-  })
-}
+<script setup lang="ts">
+const showDialog = ref(false)
 </script>
 
 <style scoped>
