@@ -1,29 +1,13 @@
 <template>
   <footer class="grid gap-6 px-3 pt-24 pb-12 text-gray-500 dark:text-gray-400">
-    <div class="grid grid-cols-4 sm:grid-cols-8 gap-y-4 gap-6 md:gap-8 justify-center justify-items-center mx-auto">
+    <div class="grid grid-cols-3 sm:grid-cols-6 gap-y-4 gap-6 md:gap-8 justify-center justify-items-center mx-auto">
       <a
-        href="https://threads.net/@limhenry96"
-        target="_blank"
-        rel="me noopener noreferrer"
-        class="transition hover:text-gray-600 dark:hover:text-gray-300"
-      >
-        <IconThreads class="w-[22px] h-[22px]" />
-      </a>
-      <a
-        href="https://mastodon.social/@henrylim96"
-        target="_blank"
-        rel="me noopener noreferrer"
-        class="transition hover:text-gray-600 dark:hover:text-gray-300"
-      >
-        <IconMastodon class="w-[22px] h-[22px]" />
-      </a>
-      <a
-        href="https://twitter.com/henrylim96"
+        href="https://bsky.app/profile/henrylim96.bsky.social"
         target="_blank"
         rel="noopener noreferrer"
         class="transition hover:text-gray-600 dark:hover:text-gray-300"
       >
-        <IconTwitter class="w-[22px] h-[22px]" />
+        <IconBluesky class="w-[22px] h-[22px]" />
       </a>
       <a
         href="http://github.com/limhenry"
@@ -50,7 +34,7 @@
         <IconDevto class="w-[22px] h-[22px]" />
       </a>
       <a
-        href="https://developers.google.com/community/experts/directory/profile/profile-henry-lim"
+        href="https://g.dev/henry"
         target="_blank"
         rel="noopener noreferrer"
         class="transition hover:text-gray-600 dark:hover:text-gray-300"

@@ -43,7 +43,7 @@
               src="https://www.youtube.com/embed/LLCXFAd94pk?rel=0&amp;showinfo=0"
               frameborder="0"
               allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen=""
+              allowfullscreen
               loading="lazy"
             />
           </div>
@@ -139,7 +139,7 @@
         </div>
         <div class="info">
           <div class="copyright">
-            © Copyright 2023 <a class="link" href="/" target="_blank" rel="noopener noreferrer">Henry Lim</a>
+            © Copyright 2026 <a class="link" href="/" target="_blank" rel="noopener noreferrer">Henry Lim</a>
           </div>
         </div>
       </div>
@@ -147,28 +147,24 @@
   </div>
 </template>
 
-<script>
-export default {
-  head () {
-    return {
-      title: 'Remote for Slides',
-      meta: [
-        { hid: 'description', name: 'description', content: 'Remote for Slides allows you to control Google Slides on any device, remotely, without the need for any extra hardware.' },
-        { hid: 'og:description', property: 'og:description', content: 'Remote for Slides allows you to control Google Slides on any device, remotely, without the need for any extra hardware.' },
-        { hid: 'og:image', property: 'og:image', content: 'https://limhenry.xyz/images/slides/cover.jpeg' },
-        { hid: 'og:image:width', property: 'og:image:width', content: '1500' },
-        { hid: 'og:image:height', property: 'og:image:height', content: '800' },
-        { hid: 'twitter:site', name: 'twitter:site', content: '@remoteforslides' },
-        { hid: 'twitter:title', name: 'twitter:title', content: 'Remote for Slides' },
-        { hid: 'twitter:description', name: 'twitter:description', content: 'Remote for Slides allows you to control Google Slides on any device, remotely, without the need for any extra hardware.' },
-        { hid: 'twitter:image', name: 'twitter:image', content: 'https://limhenry.xyz/images/slides/cover.jpeg' }
-      ],
-      link: [
-        { hid: 'favicon', rel: 'icon', type: 'image/png', href: '/favicon-remote.png' }
-      ]
-    }
-  }
-}
+<script setup lang="ts">
+useHead({
+  title: 'Remote for Slides',
+  meta: [
+    { name: 'description', content: 'Remote for Slides allows you to control Google Slides on any device, remotely, without the need for any extra hardware.' },
+    { property: 'og:description', content: 'Remote for Slides allows you to control Google Slides on any device, remotely, without the need for any extra hardware.' },
+    { property: 'og:image', content: 'https://limhenry.xyz/images/slides/cover.jpeg' },
+    { property: 'og:image:width', content: '1500' },
+    { property: 'og:image:height', content: '800' },
+    { name: 'twitter:site', content: '@remoteforslides' },
+    { name: 'twitter:title', content: 'Remote for Slides' },
+    { name: 'twitter:description', content: 'Remote for Slides allows you to control Google Slides on any device, remotely, without the need for any extra hardware.' },
+    { name: 'twitter:image', content: 'https://limhenry.xyz/images/slides/cover.jpeg' }
+  ],
+  link: [
+    { rel: 'icon', type: 'image/png', href: '/favicon-remote.png' }
+  ]
+})
 </script>
 
 <style scoped>
