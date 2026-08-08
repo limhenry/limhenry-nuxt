@@ -111,7 +111,7 @@ const projects = computed(() => [{
   description: 'The official Malaysia government website for data and insights on COVID-19. Over four million users visited the page on the launch month. Built using Nuxt.js and TailwindCSS.',
   image: 'covidnow',
   imageDark: 'covidnow-dark',
-  url: 'https://covidnow.moh.gov.my'
+  url: 'https://web.archive.org/web/20220906032814/https://covidnow.moh.gov.my/'
 }, {
   title: 'Malaysia Vaccine Tracker Twitter Bot',
   description: 'Track the latest vaccination progress in Malaysia on Twitter. Followed by over 13,000 people including prominent politicians, journalists, and more. Built using Firebase Cloud Functions.',
