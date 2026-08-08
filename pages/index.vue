@@ -79,7 +79,7 @@
         </div>
       </a>
     </div>
-    <div class="grid grid-cols-3 grid-rows-5 md:grid-rows-4 md:grid-cols-10 gap-2 lg:gap-6 items-center justify-center">
+    <div class="grid grid-cols-4 grid-rows-3 md:grid-cols-6 gap-2 lg:gap-6 items-center justify-center">
       <div class="col-span-full text-2xl md:text-3xl font-semibold mb-2">
         Find me on the news
       </div>
@@ -89,7 +89,7 @@
         :href="item.url"
         target="_blank"
         rel="noopener noreferrer"
-        class="md:col-span-2 w-full h-full rounded-lg md:rounded-xl transition hover:bg-gray-100 dark:bg-gray-50 dark:hover:bg-gray-200"
+        class="w-full h-full rounded-lg md:rounded-xl transition hover:bg-gray-100 dark:bg-gray-50 dark:hover:bg-gray-200"
         :class="item.containerClass"
       >
         <div class="grid aspect-[15/8]">
@@ -200,13 +200,11 @@ const news = computed(() => [{
   name: 'Tatler Asia',
   image: 'tatler',
   url: 'https://www.tatlerasia.com/style/wellness/covid-19-covidnow-website-covid-data-malaysia-khairy-jamaluddin-henry-lim-calum-lim-sheng-han-lim-ro',
-  containerClass: 'md:col-start-4',
   class: 'w-auto h-[48px] lg:h-[68px] object-contain'
 }, {
   name: 'The Malaysian Insight',
   image: 'tmi',
   url: 'https://www.themalaysianinsight.com/s/343637',
-  containerClass: 'md:col-start-6'
 }])
 </script>
 
