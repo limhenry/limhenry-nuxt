@@ -12,24 +12,24 @@
       <li>🇩🇪 &nbsp;I am currently working as a software engineer for a <a class="link" href="https://twitter.com/henrylim96/status/1511707662630670342" target="_blank" rel="noopener noreferrer">Hamburg-based German company</a>.</li>
       <li>🇹🇭 &nbsp;I was working for a software house as a front-end web developer in Bangkok, Thailand from 2018 to 2021.</li>
       <li>🇲🇾 &nbsp;I taught college students coding fundamentals and web development at The One Academy in Malaysia back in 2018.</li>
-      <li>🥑 &nbsp;I am a <a class="hover:underline text-blue-800 dark:text-blue-200" href="https://g.dev/henry" target="_blank" rel="noopener noreferrer">Google Developer Expert (GDE) in Web Technologies</a> since 2018. I was one of the youngest GDE in the region.</li>
+      <li>🥑 &nbsp;I am a <a class="hover:underline text-blue-800 dark:text-blue-200" href="https://g.dev/henry" target="_blank" rel="noopener noreferrer">Google Developer Expert (GDE) in Web Technologies</a> since 2018. I was one of the youngest GDEs in the region.</li>
       <li>💻 &nbsp;This website is built using Nuxt.js and TailwindCSS.</li>
       <li>🛠 &nbsp;I don't like jQuery and Bootstrap, but for some reason, I like TailwindCSS <a class="link" href="https://tailwindcss.com/docs/just-in-time-mode" target="_blank" rel="noopener noreferrer">(JIT is awesome!)</a>.</li>
       <li>😷 &nbsp;I <a class="link" href="https://covidnow.limhenry.xyz/" target="_blank" rel="noopener noreferrer">developed a COVID-19 dashboard</a> for the people of Malaysia as a pro bono project. Over four million users visited the page on the launch month. It was featured on major news outlets in Malaysia.</li>
       <li>💉 &nbsp;I <a class="link" href="https://twitter.com/MYVaccineCount" target="_blank" rel="noopener noreferrer">developed the Malaysia Vaccine Tracker Twitter Bot</a>. It has more than 13,000 followers including prominent politicians, journalists, and more.</li>
       <li>🎛️ &nbsp;I <a class="link" href="/slides" target="_blank" rel="noopener noreferrer">developed a remote control web app for Google Slides called Remote for Slides</a>. Used by hundreds of thousands of people worldwide. It was featured on <a class="link" href="https://thenextweb.com/news/turn-your-phone-into-a-google-slides-remote-control-with-this-chrome-extension" target="_blank" rel="noopener noreferrer">The Next Web</a>.</li>
-      <li>🎖 &nbsp;I won a Moto 360 smartwatch and a Raspberry Pi from Firebase Static Showdown Hackathon in 2016.</li>
-      <li>🕹 &nbsp;I <a class="link" href="https://www.digitalnewsasia.com/mobility/student-nets-elusive-firebass-ticket-google%E2%80%99s-io-2017" target="_blank" rel="noopener noreferrer">won a free ticket to Google I/O 2017 from a Firebase's Alternate reality game</a> in 2016.</li>
+      <li>🎖 &nbsp;I won a Moto 360 smartwatch and a Raspberry Pi at the Firebase Static Showdown Hackathon in 2016.</li>
+      <li>🕹 &nbsp;I <a class="link" href="https://www.digitalnewsasia.com/mobility/student-nets-elusive-firebass-ticket-google%E2%80%99s-io-2017" target="_blank" rel="noopener noreferrer">won a free ticket to Google I/O 2017 through a Firebase alternate reality game</a> in 2016.</li>
       <li>🏆 &nbsp;I <a class="link" href="https://web.archive.org/web/20221208212150/https://limhenry.medium.com/how-we-crashed-the-firebase-console-in-front-of-firebase-engineers-a04afac72095" target="_blank" rel="noopener noreferrer">won a Google Wifi and a few hundred dollars of Google Cloud Credit</a> from the Firebase AppFest Hackathon Malaysia in 2017.</li>
       <li>🤪 &nbsp;I love to build useless stuff like <a class="link" href="https://howmanydayssincehenrygothishaircut.limhenry.xyz/" target="_blank" rel="noopener noreferrer">How Many Days Since Henry Got His Haircut</a>, <a class="link" href="https://nothing.limhenry.xyz/" target="_blank" rel="noopener noreferrer">Nothing PWA</a>, and more.</li>
       <li>🍎 &nbsp;I love Google, but I use iPhone, Apple Watch, and MacBook <i>(Don't ask me why)</i>.</li>
       <li>🚀 &nbsp;I love aviation and rocket science. I used to play Microsoft Flight Simulator X on my old, slow laptop in the past. Now <a class="link" href="https://twitter.com/henrylim96/status/1443965690646458371">I am playing Microsoft Flight Simulator 2020 on my Xbox Series S</a>.</li>
       <li>🛩 &nbsp;I have a very long list of every flight I've ever been on, since birth. And I flew with AirAsia more than 50 times.</li>
-      <li>🧳 &nbsp;I once flew to San Francisco, and Hong Kong Airlines left my luggage on another side of the world.</li>
+      <li>🧳 &nbsp;I once flew to San Francisco, and Hong Kong Airlines left my luggage on the other side of the world.</li>
       <li>🦖 &nbsp;I love T-Rex, and I once <a class="link" href="https://twitter.com/henrylim96/status/1192680461618692096" target="_blank" rel="noopener noreferrer">wore a T-Rex costume at the hottest place on earth</a>: Death Valley National Park.</li>
       <li>🐥 &nbsp;I love to share weird stuff on my social media, like <a class="link" href="https://twitter.com/comrade_dcs/status/1447023763980120065" target="_blank" rel="noopener noreferrer">this</a>, <a class="link" href="https://twitter.com/thegallowboob/status/1446884244697931778" target="_blank" rel="noopener noreferrer">this</a>, and <a class="link" href="https://twitter.com/gatitos_qctd/status/1435683561869357060" target="_blank" rel="noopener noreferrer">this</a>.</li>
       <li>👕 &nbsp;My wardrobe is full of free t-shirts and hoodies from tech conferences.</li>
-      <li>☕️ &nbsp;I love money (Who doesn't?). You can <a class="link" href="https://patreon.com/remoteforslides" target="_blank" rel="noopener noreferrer">support me on Patreon</a>, this will motivate me to build more cool stuff.</li>
+      <li>☕️ &nbsp;I love money (Who doesn't?). You can <a class="link" href="https://patreon.com/remoteforslides" target="_blank" rel="noopener noreferrer">support me on Patreon</a>; this will motivate me to build more cool stuff.</li>
       <li>🇲🇾 &nbsp;Malaysian food is better than Singaporean food.</li>
     </ul>
     <div class="grid items-center py-2 md:py-8">
@@ -208,7 +208,7 @@ const photos = computed(() => [{
   class: 'col-span-1 aspect-[3/4]'
 }, {
   path: '/images/about/bigsur',
-  alt: 'Henry Lim holding a orangutan soft toy at Big Sur, California.',
+  alt: 'Henry Lim holding an orangutan soft toy at Big Sur, California.',
   class: 'col-span-1 aspect-[3/4]'
 }, {
   path: '/images/about/gbike',
