@@ -5,6 +5,7 @@
         Hi there, my name is
         <span class="font-medium text-blue-800 dark:text-blue-300">Henry Lim</span>,
         and I am a frontend engineer working on
+        <span class="font-medium text-blue-800 dark:text-blue-300">COVIDNOW</span>,
         <span class="font-medium text-blue-800 dark:text-blue-300">Malaysia Vaccine Tracker</span>,
         <span class="font-medium text-blue-800 dark:text-blue-300">Remote for Slides</span>,
         and more.
@@ -89,8 +90,7 @@
         :href="item.url"
         target="_blank"
         rel="noopener noreferrer"
-        class="w-full h-full rounded-lg md:rounded-xl transition hover:bg-gray-100 dark:bg-gray-50 dark:hover:bg-gray-200"
-        :class="item.containerClass"
+        class="w-full h-full rounded-lg md:rounded-xl transition hover:bg-gray-100 dark:bg-gray-50 dark:hover:bg-gray-200 " 
       >
         <div class="grid aspect-[15/8]">
           <Picture
@@ -108,25 +108,25 @@
 <script setup lang="ts">
 const projects = computed(() => [{
   title: 'COVIDNOW - Ministry of Health Malaysia',
-  description: 'The official Malaysia government website for data and insights on COVID-19. Over four million users visited the page on the launch month. Built using Nuxt.js and TailwindCSS.',
+  description: 'The official Malaysian government website for data and insights on COVID-19. Over four million users visited the page during its launch month. Built using Nuxt.js and TailwindCSS.',
   image: 'covidnow',
   imageDark: 'covidnow-dark',
   url: 'https://covidnow.limhenry.xyz/'
 }, {
   title: 'Malaysia Vaccine Tracker Twitter Bot',
-  description: 'Track the latest vaccination progress in Malaysia on Twitter. Followed by over 13,000 people including prominent politicians, journalists, and more. Built using Firebase Cloud Functions.',
+  description: 'Track the latest vaccination progress in Malaysia on Twitter. More than 13,000 people follow the account, including prominent politicians, journalists, and others. Built using Firebase Cloud Functions.',
   image: 'vaccine',
   imageDark: 'vaccine-dark',
   url: 'https://twitter.com/MYVaccineCount'
 }, {
   title: 'Remote for Slides',
-  description: 'A new way to control Google Slides on any device, remotely, without the need of any extra hardware. Built using Preact and Firebase.',
+  description: 'A new way to control Google Slides remotely on any device, without the need for extra hardware. Built using Preact and Firebase.',
   image: 'remote',
   imageDark: 'remote-dark',
   url: '/slides'
 }, {
   title: 'Launcher Icon Previewer',
-  description: 'Launcher Icon Previewer allows you to preview your launcher icon design on your mobile devices. Built using Firebase.',
+  description: 'Launcher Icon Previewer allows you to preview your launcher icon designs on mobile devices. Built using Firebase.',
   image: 'launcher',
   imageDark: 'launcher-dark',
   url: 'https://dev.to/henrylim96/meet-launcher-icon-previewer---preview-your-app-icon-design-on-yourdevice-4m97'
@@ -134,17 +134,17 @@ const projects = computed(() => [{
 
 const blogs = computed(() => [{
   title: 'How to Create Malaysia Flag with HTML and CSS 🇲🇾',
-  description: 'A fun way to celebrate  Malaysia\'s 62nd birthday: Create the Malaysia Flag using HTML and CSS.',
+  description: 'A fun way to celebrate Malaysia\'s 62nd birthday: Create the Malaysian flag using HTML and CSS.',
   image: 'flag',
   url: 'https://dev.to/henrylim96/how-to-create-malaysia-flag-with-html-and-css-3obe'
 }, {
   title: 'Reading Xiaomi Mi Scale data with Web Bluetooth Scanning API',
-  description: 'Learn how I "hack" the Xiaomi Mi Body Composition Scale using Web Bluetooth Scanning API.',
+  description: 'Learn how I "hacked" the Xiaomi Mi Body Composition Scale using the Web Bluetooth Scanning API.',
   image: 'scale',
   url: 'https://dev.to/henrylim96/reading-xiaomi-mi-scale-data-with-web-bluetooth-scanning-api-1mb9'
 }, {
   title: 'Zero to 15 — Building a Nothing PWA in 15 mins',
-  description: 'Learn how I build a fun (but useless) “Nothing” Progressive Web App in 15 minutes.',
+  description: 'Learn how I built a fun (but useless) “Nothing” Progressive Web App in 15 minutes.',
   image: 'nothing',
   url: 'https://dev.to/henrylim96/zero-to-15--building-a-nothing-pwa-in-15-minutes-258j'
 }, {

@@ -14,7 +14,7 @@ export default defineNuxtConfig({
         lang: 'en'
       },
       bodyAttrs: {
-        class: 'transition dark:bg-gray-900 dark:text-gray-50'
+        class: 'transition bg-gray-100 dark:bg-gray-900 dark:text-gray-50'
       },
       meta: [
         { charset: 'utf-8' },
