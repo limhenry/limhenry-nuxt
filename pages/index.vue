@@ -5,6 +5,7 @@
         Hi there, my name is
         <span class="font-medium text-blue-800 dark:text-blue-300">Henry Lim</span>,
         and I am a frontend engineer working on
+        <span class="font-medium text-blue-800 dark:text-blue-300">COVIDNOW</span>,
         <span class="font-medium text-blue-800 dark:text-blue-300">Malaysia Vaccine Tracker</span>,
         <span class="font-medium text-blue-800 dark:text-blue-300">Remote for Slides</span>,
         and more.
@@ -89,7 +90,7 @@
         :href="item.url"
         target="_blank"
         rel="noopener noreferrer"
-        class="w-full h-full rounded-lg md:rounded-xl transition hover:bg-gray-100 dark:bg-gray-50 dark:hover:bg-gray-200"
+        class="w-full h-full rounded-lg md:rounded-xl transition hover:bg-gray-100 dark:bg-gray-50 dark:hover:bg-gray-200 " 
       >
         <div class="grid aspect-[15/8]">
           <Picture

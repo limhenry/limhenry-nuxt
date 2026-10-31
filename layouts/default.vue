@@ -1,5 +1,5 @@
 <template>
-  <div :class="{'max-w-6xl mx-auto px-4 md:px-6': !isSlides}">
+  <div :class="{'transition max-w-6xl mx-auto px-4 md:px-12 bg-white dark:bg-gray-800': !isSlides}">
     <Header v-if="!isSlides" />
     <main>
       <slot />

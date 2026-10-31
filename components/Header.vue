@@ -1,8 +1,13 @@
 <template>
-  <header class="grid grid-cols-[auto,1fr,auto] py-4 md:py-8 items-center text-gray-700 dark:text-gray-300">
-    <Twitter />
-    <div />
+  <header class="flex justify-between py-4 md:py-8 items-center text-gray-700 dark:text-gray-300">
+    <IconLogo class="transition-colors hover:text-blue-700 dark:hover:text-blue-300" />
     <div class="grid grid-flow-col gap-3 md:gap-8 items-center text-lg font-light">
+      <NuxtLink
+        to="/"
+        class="nav-link hidden md:block transition border-b-2 border-transparent hover:border-gray-500 dark:hover:text-gray-200 dark:hover:border-gray-200"
+      >
+        Home
+      </NuxtLink>
       <NuxtLink
         to="/about"
         class="nav-link hidden md:block transition border-b-2 border-transparent hover:border-gray-500 dark:hover:text-gray-200 dark:hover:border-gray-200"
@@ -60,8 +65,7 @@
       class="transition-transform duration-300 fixed md:hidden grid gap-4 grid-rows-[auto,auto,1fr] w-[90%] max-w-[300px] inset-y-0 right-0 bg-white dark:bg-gray-800 shadow-lg z-20 rounded-l-xl"
       :class="`${showDrawer ? 'translate-x-0' : 'translate-x-full'}`"
     >
-      <div class="grid grid-cols-[1fr,auto] pt-4 pl-6 pr-4">
-        <IconLogo class="transition-colors hover:text-blue-700 dark:hover:text-blue-300" />
+      <div class="flex justify-end pt-4 pl-6 pr-4">
         <button
           class="grid place-items-center hover:bg-gray-200 dark:hover:bg-gray-700 rounded-full w-[38px] h-[38px]"
           aria-label="Close Drawer"
